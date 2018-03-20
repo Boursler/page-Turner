@@ -29,3 +29,27 @@
         height: 45px;
     }
 }
+
+#intro {
+    text-align: center;
+}
+
+#whatwedo {
+    text-align: center
+}
+
+#downbutton {
+    position: absolute;
+    bottom: 20px;
+    text-align: center;
+    left: 42%;
+
+}
+
+.carousel {
+   position: relative;
+   max-height: 500px;
+   margin-top: 25px;
+    
+}
+
