@@ -185,4 +185,3 @@ $(".btn-floating2").click(function () {
         scrollTop: $("#bottom").offset().top
     }, 1500);
 });
-
